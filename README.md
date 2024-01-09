@@ -4,7 +4,8 @@ Hello, I'm Alan! 👨‍💻 Passionate about the world of data analysis, busine
 <br>![4212-pokeball-shake](https://github.com/RezgaVxR/RezgaVxR/assets/155941007/6fb5ac82-33ea-444e-9a84-058a5354b7fa)
 ![giphy](https://github.com/RezgaVxR/RezgaVxR/assets/155941007/e3140f89-2bc7-444f-96e2-7f64a088bdfe)![R](https://github.com/RezgaVxR/RezgaVxR/assets/155941007/e06a9d58-997b-40aa-8a37-724ad5f43073)![1549518202_tumblr_m30mmpaa7u1rnep7do1_500](https://github.com/RezgaVxR/RezgaVxR/assets/155941007/929ba587-654d-42aa-aa95-b83f250979e7)
 <br>Connect With Me! 🌐<br>If you share similar interests or just want to chat about data analysis and more, feel free to reach out! I'm excited to learn and grow within this community.<br><br>Thanks for visiting my profile! 🚀
-![tumblr_mt12ys6lyW1qld3ljo1_500 (1) (2)](https://github.com/RezgaVxR/RezgaVxR/assets/155941007/0099a9e3-f1ce-4f5c-917f-c3228d33ca01)
+![tumblr_mt12ys6lyW1qld3ljo1_500 (2)](https://github.com/RezgaVxR/RezgaVxR/assets/155941007/fd5afed4-e5ea-4a87-81f4-79d9081e421d)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alan-vargas-ramirez-21187a279) 
 
