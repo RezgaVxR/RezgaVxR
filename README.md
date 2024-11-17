@@ -17,7 +17,9 @@ Hello, I'm Alan! 👨‍💻 Passionate about the world of data analysis, busine
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RezgaVxR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
- <img src="https://raw.githubusercontent.com/RezgaVxR/RezgaVxR/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/RezgaVxR/RezgaVxR/output/snake.svg" alt="Snake animation" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RezgaVxR&theme=discord&no-frame=false&no-bg=true&margin-w=4)
