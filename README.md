@@ -18,7 +18,7 @@ Hello, I'm Alan! 👨‍💻 Passionate about the world of data analysis, busine
 </div>
 
 <br clear="both">
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=RezgaVxR&theme=react&hide_border=false)<br/>
 <img src="https://raw.githubusercontent.com/RezgaVxR/RezgaVxR/output/snake.svg" alt="Snake animation" />
 
 ## 🏆 GitHub Trophies
