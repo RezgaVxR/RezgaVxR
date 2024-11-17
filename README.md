@@ -5,7 +5,7 @@ Hello, I'm Alan! 👨‍💻 Passionate about the world of data analysis, busine
 ![giphy](https://github.com/RezgaVxR/RezgaVxR/assets/155941007/e3140f89-2bc7-444f-96e2-7f64a088bdfe)![R](https://github.com/RezgaVxR/RezgaVxR/assets/155941007/e06a9d58-997b-40aa-8a37-724ad5f43073)![1549518202_tumblr_m30mmpaa7u1rnep7do1_500](https://github.com/RezgaVxR/RezgaVxR/assets/155941007/929ba587-654d-42aa-aa95-b83f250979e7)
 <br>Connect With Me! 🌐<br>If you share similar interests or just want to chat about data analysis and more, feel free to reach out! I'm excited to learn and grow within this community.<br><br>Thanks for visiting my profile! 🚀
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alan-vargas-ramirez-21187a279) 
 
 
